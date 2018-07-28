@@ -1,0 +1,295 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600);@import url(https://fonts.googleapis.com/css?family=Fira+Mono);
+
+* {
+    font-family: fira mono;
+}
+.nav {
+    margin: 0px auto;
+    display: inline-block;
+    width: 100%;
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    height: 24px;
+    }
+
+.corazon {
+    margin: 0px 0px 0 10px;
+    }
+ 
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    font-size: 08px;
+  }
+  .navel {
+   font-size: 08px;   
+  }
+.nav-right {
+    float: right;
+    padding: 0;
+    margin: 0 5px 0 0;
+    }
+.nav-right li{
+  
+    margin: 0px 10px;
+    display: inline-block;
+}
+
+header {
+     
+      background-color: rgb(32, 101, 136);
+      height: 300px;
+      font-family: sans-serif;
+  }
+.logo-search {
+
+padding-top: 0px;
+position: relative;
+bottom: 303px;
+width: 1208px;
+opacity: 0.8;
+
+}
+.logo-search img {
+    width: 60px;
+    height: 25px;
+    position: relative;
+    left: 10px;
+  top: 11px;
+    
+}
+.logo-search input{
+    background-color: rgb(31, 82, 111);
+    width: 1000px;
+    height: 24px;
+    border: 0.5px solid rgba(128, 128, 128, 0.7);
+    position: relative;
+    top: 2px;
+    left: 15px;
+    padding-left: 5px; 
+}
+.logo-search a {
+    font-size: 8px;
+    text-decoration: none;
+    color: white;
+}
+.bear {
+   position: relative;
+   bottom: 328px;
+   left: 1215px;
+   float: righ;
+}
+.clearfix {
+    clear: both;
+}
+.input-lupa {
+    display: inline-block;
+    border: 0.5px solid rgba(128, 128, 128, 0.7);
+    position: relative;
+    left: 5px;
+    top:1px;
+    height: 25px;
+    padding-top: 1px;
+    background-color:rgb(31, 82, 111);
+}
+.input-lupa svg {
+            position: relative;
+            top: 4px;
+        }
+.down {
+      margin: 0 auto;
+      width: 500px;
+      color: white;
+      font-size: 10px;
+     opacity: 0.8;
+      padding: 05px 23px 35px 20px;
+      position: relative;
+      bottom: 305px;
+      right: 120px;
+}
+.down img {
+    float: right;
+   
+}
+h1 {
+    font-size: 26px;
+}
+.button-npm {
+    background-color: rgb(240, 146, 51);
+    color: white;
+    border-radius: 2rem;
+    border-color: rgb(240, 146, 51);
+    height: 25px;
+    width: 120px;
+    font-size: 10px;
+
+}
+.down p {
+    width: 405px;
+}
+.section-1 {
+ height: 360px; 
+ margin: 0px 0;
+ width: 100%;
+ background-color: rgb(39, 53, 71);
+ color: white;
+
+ 
+
+ 
+}
+.section-1 img{
+    height: 220px;
+    position: relative;
+    left: 260px;
+    top:70px;
+    
+
+}
+.content-s1 {
+    height: 220px;
+    width: 400px;
+    font-size: 9px;
+    float: right;
+    position: relative;
+   right: 200px;
+   top: 70px; 
+   opacity: 0.8;   
+}
+.content-s1 input {
+    background-color: rgb(203, 56, 55);
+    margin-left: 30px;
+    color: white;
+    border-radius: 2rem;
+    border-color:rgb(203, 56, 55);
+    height: 25px;
+    width: 120px;
+    font-size: 10px;
+   
+}   
+.content-s1 h2 {
+    font-size: 25px;
+    width: 360px;
+    margin-left: 22px;
+    margin-top: 0;
+}
+
+
+.more {
+    color: white;
+    text-decoration: none;
+    
+    }
+.section-1 ul {
+font-size: 11px;
+line-height: 2em;
+
+}
+.section-1 p{
+margin-left: 30px; 
+font-size: 11px;  
+}
+.section-install {
+    background-image: url("images/forklift.svg");
+width: 1249px;
+  background-size: cover;
+  height: 435px;
+  position: relative;
+  margin: 0 0;
+}
+
+.text-install {
+    position: absolute;
+    left: 115px;
+    top: 75px;
+    color: white;
+    opacity: 0.8;
+
+}
+.text-install h3 {
+font-size: 36px;
+}
+.text-install p {
+    width: 380px;
+    font-size: 12px;
+}
+.button-install {
+   background-color: rgb(49, 68, 88);
+   border-radius: 2rem;
+    border-color: rgb(49, 68, 88);
+    height: 25px;
+    width: 120px;
+    font-size: 10px;
+    color: white;
+}
+
+.logos {
+    
+   
+    width: 100%; 
+    
+    margin: 0 auto;
+  padding: 20px 0;
+    
+}
+h4 {
+    font-size: 16px;
+   
+
+}
+.apps {
+    display: inline-block;
+    text-align: center;
+    
+    height: 230px;;
+ 
+   font-size: 11px;
+    padding: 20px;
+  width: 18%;
+   
+  
+}
+
+
+.tools {
+    color: red;
+}
+.prisma {
+    width: 90px;
+   
+    position: relative;
+    top: 10px;
+    
+}
+.find {
+    float: left;
+    margin: auto 20px auto 210px;
+}
+.discover {
+    float: left;
+  
+}
+.build {
+float: right;
+margin: auto 202px auto 20px;
+
+
+
+}
+.clearfix {
+    clear: both;
+
+}
+.what-text {
+    margin-top: 80px;
+    opacity: 0.8;
+   
+}
+.what-text h3{
+font-size: 25px;
+text-align: center;
+}
+.what-text p{
+    font-size: 11px;
+    text-align: center;
+}
